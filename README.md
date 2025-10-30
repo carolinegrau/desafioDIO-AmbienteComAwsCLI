@@ -107,7 +107,7 @@ Como o AWS CLI não permite configurar o gatilho diretamente, essa etapa foi fei
 ```
 - Enviar para o S3
   ```
-  aws s3 cp nota1.json s3://nome-do-bucket/
+  aws s3 cp nota1.json s3://desafio-caroline-nf/
   ```
 ### 8. Verificar execução da Lambda
 ```
